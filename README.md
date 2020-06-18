@@ -4,7 +4,7 @@ This is the Capstone project for the [Udacity C++ Nanodegree Program](https://ww
 
 This project consists of 2 applications: ChatAppClient and ChatAppServer. Using the network protocol TCP and WxWidgets, the ChatApp creates a GUI where client and server applications can communicate via messages.
 
-Project demo: images/ChatApp.jpg
+<img src="images/ChatApp.gif"/>
 
 This project implements almost all the concepts covered in this nanodegree.
 
