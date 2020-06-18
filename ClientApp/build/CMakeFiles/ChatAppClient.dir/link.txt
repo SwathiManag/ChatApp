@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++17 -pthread -pthread -g   CMakeFiles/ChatAppClient.dir/src/chatgui.cpp.o CMakeFiles/ChatAppClient.dir/src/client.cpp.o CMakeFiles/ChatAppClient.dir/src/main.cpp.o CMakeFiles/ChatAppClient.dir/src/socket.cpp.o  -o ChatAppClient   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -L/usr/local/lib -pthread -lwx_gtk2u_core-3.1 -lwx_baseu-3.1 

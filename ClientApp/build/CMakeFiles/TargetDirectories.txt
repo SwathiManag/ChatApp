@@ -1,3 +1,0 @@
-/home/chetan/Swathi/Capstone/ClientApp/build/CMakeFiles/rebuild_cache.dir
-/home/chetan/Swathi/Capstone/ClientApp/build/CMakeFiles/ChatAppClient.dir
-/home/chetan/Swathi/Capstone/ClientApp/build/CMakeFiles/edit_cache.dir
